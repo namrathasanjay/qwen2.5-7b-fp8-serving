@@ -1,0 +1,8 @@
+# Model checkpoints and traces (regenerate with the notebooks)
+qwen2.5-7b-fp8/
+*.safetensors
+trace.json
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

@@ -1,0 +1,5 @@
+# Session 1 (quantization, perplexity, profiling). Fresh Colab runtime; restart after install.
+llmcompressor          # recorded run: 0.14.0 with torch 2.11 and transformers 5.17
+transformers
+datasets
+# then: pip uninstall -y torchvision

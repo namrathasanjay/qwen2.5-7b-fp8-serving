@@ -1,0 +1,7 @@
+# Session 2 (serving + benchmarks). Fresh Colab runtime with Python 3.12; restart after install.
+vllm==0.7.3
+transformers>=4.48.2,<5.0
+aiohttp
+nest_asyncio
+requests
+# then: pip uninstall -y torchvision
